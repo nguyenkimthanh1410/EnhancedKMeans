@@ -1,0 +1,4 @@
+- Purpose: To cluster a given customer base into different group based  similar properties using K-means alogrithm.
++ The experiment shows that using the combination of Zscore (for data normalization) and Actual data points (for initial centroids) results in smaller Within Sum Square (WSS)
++ o	Achieved same result as the output of data mining tool Weka (WSS =0.06, SE=0.4)
+- Technology used: Python 3

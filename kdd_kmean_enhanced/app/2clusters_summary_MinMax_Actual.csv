@@ -1,0 +1,17 @@
+|OUTPUT SUMMARY with options:
+                Normalization method: MinMax
+                Initial centroids: Actual|
+|Initial 2 midpoints|
+Fresh Milk Grocery Frozen Detergents_Paper Delicassen Cluster#
+7057.0 9810.0 9568.0 1762.0 3293.0 1776.0 0
+12669.0 9656.0 7561.0 214.0 2674.0 1338.0 1
+|Final midpoints|
+Fresh Milk Grocery Frozen Detergents_Paper Delicassen Cluster# #Points %
+7057.0 9810.0 9568.0 1762.0 3293.0 1776.0 0 47 10.68%
+12669.0 9656.0 7561.0 214.0 2674.0 1338.0 1 393 89.32%
+|Number of iteration: 15|
+|Elapsed Time: 0.624035120010376 seconds|
+|Square Error|
+|Within Sum Square Error (WSSE): | 17.246032935216444
+|Between Sum Square Error (BSSE): | 7.678211569449069
+|Total Sum Square Error (SSE): | 24.924244504665513
